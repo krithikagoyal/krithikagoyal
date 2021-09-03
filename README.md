@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=krithikagoyal&show_icons=true&theme=dracula" alt="krithikagoyal"/></p>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krithikagoyal&layout=compact&theme=dracula&count_private=true" alt="Krithika's github stat's" /></p>
-<br>
-
 <a href="https://www.linkedin.com/in/krithika-goyal/" align="center">
   <img alt="Krithika's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
