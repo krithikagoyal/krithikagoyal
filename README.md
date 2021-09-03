@@ -14,26 +14,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p></p>
-
-
-
 <br>
+<ul>
+  <li> 👯 Looking to collaborate on amazing projects. </li>
+  <li> 📫 Reach me at <a href="https://www.linkedin.com/in/krithika-goyal/" align="center">Krithika Goyal</a> </li>
+</ul>
 <br>
-<br>
-<br>
-<br>
-📈 My GitHub Stats
+📈 GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=krithikagoyal&show_icons=true&theme=dracula" alt="krithikagoyal"/></p>
 
-📈 Languages I used
+📈 Languages used
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krithikagoyal&layout=compact&theme=dracula&count_private=true" alt="Krithika's github stat's" /></p>
-
-My profiles 👇
-<br>
-<a href="https://www.linkedin.com/in/krithika-goyal/" align="center">
-  <img alt="Krithika's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=krithikagoyal.krithikagoyal)
