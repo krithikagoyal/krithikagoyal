@@ -27,5 +27,3 @@ Here are some ideas to get you started:
 📈 Languages used
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krithikagoyal&layout=compact&theme=dracula&count_private=true" alt="Krithika's github stat's" /></p>
-
-![](https://visitor-badge.glitch.me/badge?page_id=krithikagoyal.krithikagoyal)
