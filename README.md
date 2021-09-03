@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, world! 👋
 I am Krithika Goyal, 3rd year computer science undergraguate at IIT Ropar. I am interested in solving problems and currently learning full stack web development.
 <!--
 Here are some ideas to get you started:
