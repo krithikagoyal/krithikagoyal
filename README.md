@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 -->
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=krithikagoyal&show_icons=true&theme=gotham" alt="krithikagoyal"/></p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krithikagoyal&layout=compact&theme=gotham&count_private=true" alt="Krithika's github stat's" /></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=krithikagoyal&show_icons=true&theme=dracula" alt="krithikagoyal"/></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krithikagoyal&layout=compact&theme=dracula&count_private=true" alt="Krithika's github stat's" /></p>
 <br>
 
 <a href="https://www.linkedin.com/in/krithika-goyal/" align="center">
