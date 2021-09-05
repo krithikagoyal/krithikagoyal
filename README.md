@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 📈 Languages used
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krithikagoyal&theme=dracula&count_private=true" alt="Krithika's github stat's" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krithikagoyal&layout=compact&theme=dracula&count_private=true" alt="Krithika's github stat's" /></p>
