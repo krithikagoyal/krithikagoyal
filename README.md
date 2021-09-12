@@ -1,6 +1,6 @@
 <img alt="Girl using laptop" width="300px" height="300px" src="https://i.pinimg.com/originals/ec/65/e0/ec65e0c2c175e337dfa141aeb73d8f3c.jpg" align="right"/>
 
-### Hey 👋, thanks for visiting my profile. 
+### Hey, thanks for visiting my profile.👋
 I am <b>Krithika Goyal</b>, junior at IIT Ropar. I am interested in solving problems and use my computer science and problem-solving skills to build software. Currently, I am learning various tools and technologies for web development and also new data structures and algorithms for improving the performance of the websites that I'll build!
 <!--
 Here are some ideas to get you started:
