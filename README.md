@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hey 👋, I'm Krithika Goyal </h1>
+<h2 align="center"> Hey 👋, I'm Krithika Goyal </h2>
 <img alt="Girl using laptop" width="300px" height="300px" src="https://i.pinimg.com/originals/ec/65/e0/ec65e0c2c175e337dfa141aeb73d8f3c.jpg" align="right"/>
 
 #### Thanks for visiting my profile.
