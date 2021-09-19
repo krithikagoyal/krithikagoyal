@@ -31,5 +31,4 @@ Here are some ideas to get you started:
 <h4>📈 GitHub Stats</h4>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=krithikagoyal&show_icons=true&theme=dracula" alt="krithikagoyal"/></p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=krithikagoyal&label=Profile%20views&color=0e75b6&style=flat" alt="krithikagoyal" /> </p>
 
